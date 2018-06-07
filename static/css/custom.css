@@ -1,0 +1,44 @@
+/*
+Theme Name: iDea - Clean & Powerful Bootstrap Theme
+Author: HtmlCoder
+Author URI: http://www.htmlcoder.me
+Author e-mail: htmlcoder.me@gmail.com
+Version: 1.0.0 
+Created: August 2014
+License URI: http://wrapbootstrap.com
+File Description: Place here your custom CSS styles
+*/
+
+.login{
+    border: 1px solid #aaa;
+    box-shadow: 10px #777;
+    height: 100%;
+}
+
+.login-title{
+    background-color:#3d78d8;
+    padding: 10px;
+    color: whitesmoke;
+}
+
+.dl-horizontal dt {
+    padding: 8px;
+}
+
+.tabs-style-2{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+hr{
+    border-color: #ddd;
+}
+
+.space-top{
+    padding: 10px 0;
+}
+
+.tab-content{
+    border-left: 1px solid #3d78d8;
+}
