@@ -18,6 +18,7 @@ import './assets/plugins/magnific-popup/magnific-popup.css'
 import './assets/css/animations.css'
 import './assets/plugins/owl-carousel/owl.carousel.css'
 
+//添加注释
 Vue.config.productionTip = false
 Vue.prototype.setCookie = setCookie
 Vue.prototype.getCookie = getCookie
